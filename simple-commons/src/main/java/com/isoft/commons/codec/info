@@ -1,0 +1,10 @@
+https://www.cnblogs.com/LiuChunfu/p/5621703.html
+Commons Codec基本使用
+在实际的应用中，我们经常需要对字符串进行编解码，Apache Commons家族中的Commons Codec就提供了一些公共的编解码实现，
+比如Base64, Hex, MD5,Phonetic and URLs等等。
+
+包含一些通用的编码解码算法。包括一些语音编码器
+
+
+
+DigestUtils用的比较多，各种加密技术 
